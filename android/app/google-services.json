@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "978135933085",
+    "project_id": "buddies-gram-9401f",
+    "storage_bucket": "buddies-gram-9401f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978135933085:android:1199c21d0f2f8665987474",
+        "android_client_info": {
+          "package_name": "com.example.todo_reverpod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978135933085-jkrjjbjb7r8mh1l3bfu2j2jcvfkh2v60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA932Y3uwMI9edkZwRSl7pmt0QzHPGHKeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978135933085-jkrjjbjb7r8mh1l3bfu2j2jcvfkh2v60.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "978135933085-d6qga3g5ecr36o209tfcnv83ihvggf9g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.buddiesGram.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

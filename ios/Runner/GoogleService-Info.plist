@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>978135933085-rhsf43b2gth3k5cqus5o7pog3ktm9m6k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.978135933085-rhsf43b2gth3k5cqus5o7pog3ktm9m6k</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>978135933085-9sgmffgqibla3pl3h1j0bkaf8grlt0au.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDLBuC2OTO3Xb0_sy03LqOC-rhyjkIXHEU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>978135933085</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.todoReverpod</string>
+	<key>PROJECT_ID</key>
+	<string>buddies-gram-9401f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>buddies-gram-9401f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:978135933085:ios:e9858881a0610c5c987474</string>
+</dict>
+</plist>
